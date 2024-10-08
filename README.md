@@ -33,17 +33,17 @@ Desenvolver um sistema de cadastro de alunos que permita o gerenciamento das inf
 - Proporcionar um sistema seguro e confiável para a gestão de informações sensíveis.
 
 ## Objetivos Temporais
-### Fase 1 (Mês 1):
+### Fase 1:
 - Definição do escopo detalhado e levantamento de requisitos.
 - Criação do banco de dados no PostgreSQL.
 - Desenvolvimento inicial do backend e configuração do ambiente.
 
-### Fase 2 (Mês 2):
+### Fase 2:
 - Implementação das principais funcionalidades: cadastro, edição e exclusão de alunos.
 - Criação da interface gráfica utilizando Swing.
 - Início dos testes unitários.
 
-### Fase 3 (Mês 3):
+### Fase 3:
 - Implementação de funcionalidades de relatórios e consultas.
 - Testes finais e ajustes baseados no feedback.
 - Preparação para a entrega final e documentação do sistema.
