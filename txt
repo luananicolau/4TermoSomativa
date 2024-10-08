@@ -1,0 +1,42 @@
+Relatório de Alunos
+-------------------
+Nome: Yasmin
+Idade: 19
+Curso: Engenharia
+Matrícula: 13
+-------------------
+Nome: aline
+Idade: 18
+Curso: engenharia
+Matrícula: 4
+-------------------
+Nome: Gabriel
+Idade: 18
+Curso: Mecanica
+Matrícula: 10
+-------------------
+Nome: Luana
+Idade: 18
+Curso: Dev
+Matrícula: 1
+-------------------
+Nome: Rhenan
+Idade: 90
+Curso: Dev
+Matrícula: 11
+-------------------
+Nome: Pedro
+Idade: 17
+Curso: Engenharia
+Matrícula: 3
+-------------------
+Nome: Yasmin
+Idade: 19
+Curso: Adm
+Matrícula: 15
+-------------------
+Nome: Rebeca
+Idade: 17
+Curso: Geodésia
+Matrícula: 9
+-------------------
